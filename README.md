@@ -1,5 +1,11 @@
 # IPL-2020-Data-Analysis
 
+Datasets are downloaded from kaggle 
+
+Deliveries IPL 2020.csv file found here :https://www.kaggle.com/aritrachakraborti/ipl-2020-ball-by-ball-data
+
+Matches IPL 2020.csv file found here :https://www.kaggle.com/aritrachakraborti/ipl-2020-ball-by-ball-data?select=Matches+IPL+2020.csv
+
 # Objectives
 
 * Manhattan Graph of the match
