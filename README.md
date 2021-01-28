@@ -1,6 +1,6 @@
 # IPL-2020-Data-Analysis
 
-Objectives:
+# Objectives
 
 Manhattan Graph of the match
 
